@@ -39,7 +39,7 @@ The dashboard provides an executive summary of key business metrics and interact
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Screenshot 2026-02-27 133207.png)
+![Dashboard Preview](Screenshot%202026-02-27%20133207.png)
 
 ---
 
